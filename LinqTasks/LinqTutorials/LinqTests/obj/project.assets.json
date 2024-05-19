@@ -5533,34 +5533,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\s27475\\.nuget\\packages\\": {}
+    "C:\\Users\\Mlody\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\APBD8\\LinqTasks\\LinqTutorials\\LinqTests\\LinqTests.csproj",
+      "projectUniqueName": "C:\\Users\\Mlody\\APBD8\\LinqTasks\\LinqTutorials\\LinqTests\\LinqTests.csproj",
       "projectName": "LinqTests",
-      "projectPath": "Z:\\APBD8\\LinqTasks\\LinqTutorials\\LinqTests\\LinqTests.csproj",
-      "packagesPath": "C:\\Users\\s27475\\.nuget\\packages\\",
-      "outputPath": "Z:\\APBD8\\LinqTasks\\LinqTutorials\\LinqTests\\obj\\",
+      "projectPath": "C:\\Users\\Mlody\\APBD8\\LinqTasks\\LinqTutorials\\LinqTests\\LinqTests.csproj",
+      "packagesPath": "C:\\Users\\Mlody\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mlody\\APBD8\\LinqTasks\\LinqTutorials\\LinqTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\s27475\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Mlody\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "Z:\\APBD8\\LinqTasks\\LinqTutorials\\LinqTasks\\LinqTasks.csproj": {
-              "projectPath": "Z:\\APBD8\\LinqTasks\\LinqTutorials\\LinqTasks\\LinqTasks.csproj"
+            "C:\\Users\\Mlody\\APBD8\\LinqTasks\\LinqTutorials\\LinqTasks\\LinqTasks.csproj": {
+              "projectPath": "C:\\Users\\Mlody\\APBD8\\LinqTasks\\LinqTutorials\\LinqTasks\\LinqTasks.csproj"
             }
           }
         }
@@ -5569,11 +5567,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -5617,7 +5610,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Mlody\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net8.0\LinqTasks.exe
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net8.0\LinqTasks.deps.json
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net8.0\LinqTasks.runtimeconfig.json
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net8.0\LinqTasks.dll
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net8.0\LinqTasks.pdb
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.AssemblyInfoInputs.cache
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.AssemblyInfo.cs
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.csproj.CoreCompileInputs.cache
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.sourcelink.json
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.dll
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\refint\LinqTasks.dll
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.pdb
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\LinqTasks.genruntimeconfig.cache
+C:\Users\Mlody\APBD8\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net8.0\ref\LinqTasks.dll

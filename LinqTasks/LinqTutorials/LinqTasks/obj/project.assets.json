@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\s27475\\.nuget\\packages\\": {}
+    "C:\\Users\\Mlody\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\APBD8\\LinqTasks\\LinqTutorials\\LinqTasks\\LinqTasks.csproj",
+      "projectUniqueName": "C:\\Users\\Mlody\\APBD8\\LinqTasks\\LinqTutorials\\LinqTasks\\LinqTasks.csproj",
       "projectName": "LinqTasks",
-      "projectPath": "Z:\\APBD8\\LinqTasks\\LinqTutorials\\LinqTasks\\LinqTasks.csproj",
-      "packagesPath": "C:\\Users\\s27475\\.nuget\\packages\\",
-      "outputPath": "Z:\\APBD8\\LinqTasks\\LinqTutorials\\LinqTasks\\obj\\",
+      "projectPath": "C:\\Users\\Mlody\\APBD8\\LinqTasks\\LinqTutorials\\LinqTasks\\LinqTasks.csproj",
+      "packagesPath": "C:\\Users\\Mlody\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mlody\\APBD8\\LinqTasks\\LinqTutorials\\LinqTasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\s27475\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Mlody\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Mlody\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
